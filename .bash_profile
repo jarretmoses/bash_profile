@@ -35,7 +35,6 @@ alias stack="open -a \"Google Chrome\" http://www.stackoverflow.com"
 
 
 
-
 export PATH="$PATH:/Applications:."
 
 ### Added by the Heroku Toolbelt
